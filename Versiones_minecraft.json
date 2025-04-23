@@ -1,0 +1,12 @@
+{
+  "versions": [
+    {
+      "version": "1.21.5",
+      "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.5/builds/28/downloads/paper-1.21.5-28.jar"
+    },
+    {
+      "version": "1.21.4",
+      "link": "https://api.papermc.io/v2/projects/paper/versions/1.21.4/builds/226/downloads/paper-1.21.4-226.jar"
+    }
+              ]
+}
